@@ -10,7 +10,7 @@
 
 /* button */
 .button {
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   border: none;
   color: #000000;
   padding: 16px 32px;
@@ -160,14 +160,15 @@
   left: 100%;
 }
 
-.text {
-  border: 2px solid #991297;
-  outline: none;
-  transition: 1s ease-in-out;
+.text{
+  color: #000;
+  font-weight: bold;
+  text-align: center;
 }
 
 .link {
-  border: 2px solid #4ee325;
+  border: 2px solid #25bae3;
+  color: #4F95DA;
   outline: none;
   transition: 1s ease-in-out;
 }
