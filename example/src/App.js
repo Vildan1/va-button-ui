@@ -9,6 +9,9 @@ const App = () => {
     <Button type='danger' text="Click Me" onClick = {() => alert("DANGER")} /> <br />
     <Button type='dashed' text="Click Me" onClick = {() => alert("DASHED")} /> <br />
     <Button type='warning' text="Click Me" onClick = {() => alert("WARNING")} /> <br />
+    <Button type='text' text="Click Me" onClick = {() => alert("TEXT")} /> <br />
+    <Button type='link' text="Click Me" onClick = {() => alert("LINK")} /> <br />
+
 
     </div>
   )

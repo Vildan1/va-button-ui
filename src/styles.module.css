@@ -159,3 +159,16 @@
 .dashed:active:before {
   left: 100%;
 }
+
+.text {
+  border: 2px solid #991297;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
+.link {
+  border: 2px solid #4ee325;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
