@@ -26,7 +26,8 @@ class Example extends Component {
   }
 }
 ```
-
+## Image
+<img src="https://github.com/Vildan1/va-button-ui/blob/master/src/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-04-15%20005151.png" />
 ## License
 
 MIT © [Vildan1](https://github.com/Vildan1)
