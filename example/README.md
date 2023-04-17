@@ -4,7 +4,7 @@
 
 
 ## Image
-![Preview](../src/img/ss.png)" />
+<img src="https://github.com/Vildan1/va-button-ui/blob/master/src/img/ss.png" />
 
 > Made with create-react-library
 
